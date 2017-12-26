@@ -10,3 +10,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
 So, choose SalePrice variable as Dependent variable and other 79 explanatory variables as Independent Predictor Variables. Started with Data transformation and Variable analysis.
 
 Then, performed Multiple Linear Regression Analysis, PCA (Principal Component Analysis), and Multiple Linear Regression Analysis on Principal Components to predict the correct price for each house.
+
+# Data Source:
+
+A closed competition at Kaggle: House Prices: Advanced Regression Techniques
+
+URL: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
